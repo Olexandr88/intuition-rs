@@ -284,4 +284,5 @@ See [LICENSE](LICENSE) file for details.
 
 ---
 
-**Note**: This project is under active development. Code and APIs are subject to change.
+> Note:
+> This project is under active development. Code and APIs are subject to change.
